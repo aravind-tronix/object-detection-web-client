@@ -15,6 +15,9 @@ This API provides a simple way to perform object detection using the YOLO (You O
 # Architecture Overview
 The architecture of this API involves four main components:
 
+![obj-arch](https://github.com/aravind-tronix/object-detection-web-client/assets/37391678/3a0b4d87-61a2-4a68-bd42-7f1c3dc99a36)
+
+
 ## Object Detection Model (YOLO with Darknet):
 1. YOLO (You Only Look Once) is a state-of-the-art, real-time object detection system.
 2. Darknet is an open-source neural network framework written in C and CUDA.
