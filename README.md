@@ -11,6 +11,7 @@ This API provides a simple way to perform object detection using the YOLO (You O
 3. `cd object-detection-web-client`
 4. Install required packages by `pip install -r requirements.txt`
 5. Start the Flask server `python app.py`
+6. Start the Front-end app >>> https://github.com/aravind-tronix/object-detection-webapp
 
 # Architecture Overview
 The architecture of this API involves four main components:
