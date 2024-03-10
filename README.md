@@ -10,9 +10,10 @@ This API provides a simple way to perform object detection using the YOLO (You O
 2. `git clone https://github.com/aravind-tronix/object-detection-web-client.git`
 3. `cd object-detection-web-client`
 4. Install required packages by `pip install -r requirements.txt`
-5. Download the [model manually](https://github.com/aravind-tronix/object-detection-web-client/raw/main/count.weights?download=) since it exceeds 100mb
-6. Start the Flask server `python app.py`
-7. Start the Front-end app >>> https://github.com/aravind-tronix/object-detection-webapp
+5. Download the [model manually](https://github.com/aravind-tronix/object-detection-web-client/raw/main/count.weights?download=) since it exceeds 100mb.
+6. Place the model file into the project root folder.
+7. Start the Flask server `python app.py`
+8. Start the Front-end app >>> https://github.com/aravind-tronix/object-detection-webapp
 
 # Architecture Overview
 The architecture of this API involves four main components:
