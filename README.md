@@ -44,3 +44,6 @@ The architecture of this API involves four main components:
 View and run the API on postman:
 
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/19731308-de809fbb-ad07-41e6-a467-1dbdddec0ee8?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D19731308-de809fbb-ad07-41e6-a467-1dbdddec0ee8%26entityType%3Dcollection%26workspaceId%3D23622230-6743-4c78-a275-9fda74fadd74)
+
+## APP
+The app is love at https://dev.aravind.one/
